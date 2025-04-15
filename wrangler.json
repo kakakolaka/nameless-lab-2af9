@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "nameless-lab-2af9",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d3e11f83-24a6-4ed1-896f-c999c904af32",
+      "database_name": "black-truth-93cc-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
